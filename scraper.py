@@ -1,3 +1,10 @@
+"""
+projekt_2.py: druhý projekt do Engeto Online Python Akademie
+author: Michael Čermák
+email: michael.cermak92@gmail.com
+discord: MichaelCe#8181
+"""
+
 import requests
 import csv
 import traceback
